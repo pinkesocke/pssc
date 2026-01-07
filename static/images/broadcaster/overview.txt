@@ -16,3 +16,5 @@ CTL		=	Luxembourg	=	Chaussettevision Luxembourg				=	Sockvision Luxembourg
 AVROSOCK	=	Netherlands	=	AVROSOCK						= 	AVROSOCK
 PST 		= 	Sweden 		= 	Pinksockige Television 					= 	Pink Sock Television
 BSE DEB		=	Switzerland	=	Bluestar Entertainment | Divertissement Étoile Bleue	=	Bluestar Entertainment
+UA:PSC		=	Ukraine		=	Natsionalʹna shkarpetkova radiostantsiya Ukrayiny	= 	National Sock-Broadcasting Company of Ukraine
+BSC		=	United Kingdom	=	British Sockcasting Company				=	British Sockcasting Company
