@@ -1,0 +1,18 @@
+Broadcaster 	= 	Country 	= 	Spelled Out 						= 	English Version
+===========================================================================================================================================================================
+
+PSBU		=	Europe		=	Pinke Socke Broadcasting Union				=	Pinke Socke Broadcasting Union
+
+OSF		=	Austria		=	Österreichischer Sockenfunk				=	Austrian Sock-Broadcasting
+ESR 		= 	Estonia 	= 	Eesti Sokknuku Ringhääling 				= 	Estonia Sockpuppet Broadcasting
+FC 		= 	France 		= 	France Chaussettevision 				= 	France Sockvision
+ASD		=	Germany		=	Arbeitsgemeinschaft der Sockenfunkanstalten der BRD	=	Consortium of the Sock-Broadcasting institutions of the FRG
+NDS		=	Germany		=	Norddeutscher Sockenfunk				=	North German Sock-Broadcasting
+WDS		=	Germany		=	Westdeutscher Sockenfunk				=	West German Sock-Broadcasting
+SHAM		=	Israel		=	Israeli Sockpuppet Broadcasting Corporation ("Shiam")	=	Israeli Sockpuppet Broadcasting Corporation ("There")
+CAI		=	Italy		=	Calzinovisione Italiana					=	Italian Sockvision
+LNS		=	Lithuania	=	Lietuvos nacionalinis kojinėvizija			=	Lithuanian National Sockvision
+CTL		=	Luxembourg	=	Chaussettevision Luxembourg				=	Sockvision Luxembourg
+AVROSOCK	=	Netherlands	=	AVROSOCK						= 	AVROSOCK
+PST 		= 	Sweden 		= 	Pinksockige Television 					= 	Pink Sock Television
+BSE DEB		=	Switzerland	=	Bluestar Entertainment | Divertissement Étoile Bleue	=	Bluestar Entertainment
