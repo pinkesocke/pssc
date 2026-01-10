@@ -24,7 +24,7 @@ class Header extends HTMLElement {
             <nav class="flex flex-col flex-1 self-stretch" role="navigation" aria-labelledby="mobile-nav-heading">
                 <h2 id="mobile-nav-heading" class="sr-only">Mobile Navigation Menu</h2>
                 <div class="w-full">
-                    <a href="/pssc/hohenried-2026/" class="hover:text-accent" tabindex="0" data-nav-item>
+                    <a href="/pssc/hohenried-2026" class="hover:text-accent" tabindex="0" data-nav-item>
                         Pinke Socke Song Contest
                     </a>
 

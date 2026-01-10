@@ -55,7 +55,7 @@ class Footer extends HTMLElement {
 
                                 <a href="/pssc/hohenried-2026" class="block text-xs underline-hover" tabindex="0">Pinke Socke Song Contest</a>
 
-                                <a href="/pssc/history/" class="block text-xs underline-hover">History of the PSSC</a>
+                                <a href="/pssc/history" class="block text-xs underline-hover">History of the PSSC</a>
                             </div>
 
                         </div>
@@ -153,8 +153,7 @@ class Footer extends HTMLElement {
                         </div>
                     </nav>
 
-                    <nav class="footer-accordion-toggle md:col-span-3 md:block mb-0.5 bg-black/40 md:bg-transparent"
-                        role="navigation" aria-label="Company navigation">
+                    <nav class="footer-accordion-toggle md:col-span-3 md:block mb-0.5 bg-black/40 md:bg-transparent" role="navigation" aria-label="Company navigation">
                         <div class="relative">
                             
                             <input type="checkbox" id="footer-section-footer-section-5" class="peer hidden"aria-hidden="true" />
