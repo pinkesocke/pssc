@@ -5938,14 +5938,14 @@ a[href="#main-content"]:focus-visible {
 @media(min-width:64rem) {
     .editorial-sticky-aside {
         top: calc(var(--spacing)*14);
-        /*position: sticky*/
+        position: sticky
     }
 }
 
 .editorial-sticky-aside {
     transition: top;
     transition-duration: var(--default-transition-duration);
-    transition-timing-function: var(--default-transition-timing-function)
+    transition-timing-function: var(--default-transition-timing-function);
 }
 
 .eurofan-decorator {
