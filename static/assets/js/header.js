@@ -62,7 +62,7 @@ class Header extends HTMLElement {
                             <a href="/">
                                 <img src="/static/images/3DSock.png" width="30px"/>
                             </a>
-                            <a href="/pssc/hohenried-2026/" class="btn hover:text-accent" tabindex="0" data-nav-item>
+                            <a href="/pssc/hohenried-2026" class="btn hover:text-accent" tabindex="0" data-nav-item>
                                 Pinke Socke Song Contest
                             </a>
                         </nav>
@@ -74,7 +74,7 @@ class Header extends HTMLElement {
                         </a>
 
                         <nav class="flex flex-1 gap-4 items-center justify-end" role="navigation" aria-label="User account navigation">
-                            <p><b>Grand Finale:</b> 16th May 2026</p>
+                            <p><b>Grand Final:</b> 16th May 2026</p>
                         </nav>
 
                     </div>
