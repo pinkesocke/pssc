@@ -5760,7 +5760,7 @@
 
 @font-face {
     font-family: Singing Sans;
-    src: url(https://www.eurovision.com/static/assets/Singing_Sans-CSJYxodT.woff2)format("woff2"), url(https://www.eurovision.com/static/assets/Singing_Sans-BERC94M5.woff)format("woff");
+    src: url(/static/assets/font/Singing_Sans-CSJYxodT.woff2)format("woff2"), url(/static/assets/font/Singing_Sans-BERC94M5.woff)format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: swap
