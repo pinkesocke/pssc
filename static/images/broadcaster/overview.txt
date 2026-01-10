@@ -6,6 +6,7 @@ PSBU		=	Europe		=	Pinke Socke Broadcasting Union				=	Pinke Socke Broadcasting U
 OSF		=	Austria		=	Österreichischer Sockenfunk				=	Austrian Sock-Broadcasting
 ESR 		= 	Estonia 	= 	Eesti Sokknuku Ringhääling 				= 	Estonia Sockpuppet Broadcasting
 FC 		= 	France 		= 	France Chaussettevision 				= 	France Sockvision
+Sock 2		=	France		=	Sock 2							=	Sock 2
 ASD		=	Germany		=	Arbeitsgemeinschaft der Sockenfunkanstalten der BRD	=	Consortium of the Sock-Broadcasting institutions of the FRG
 NDS		=	Germany		=	Norddeutscher Sockenfunk				=	North German Sock-Broadcasting
 WDS		=	Germany		=	Westdeutscher Sockenfunk				=	West German Sock-Broadcasting
