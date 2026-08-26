@@ -243,6 +243,10 @@ p.muted {
   font-size: .88rem;
 }
 
+.button.download {
+  max-width: 50%;
+}
+
 .text-link {
   color: var(--muted);
   font-weight: 700;
@@ -303,7 +307,6 @@ p.muted {
   display: flex;
   width: max-content;
 
-  font-family: Montserrat;
   font-weight: 900;
   color: var(--violet);
   letter-spacing: .06em;
@@ -751,6 +754,10 @@ footer {
     padding: 9px 12px;
   }
 
+  .button.download {
+    max-width: 100%;
+  }
+
   .section {
     padding: 78px 18px;
   }
@@ -772,7 +779,7 @@ footer {
   }
 
   h2 {
-    font-size: clamp(2.4rem, 12vw, 3.5rem);
+    font-size: clamp(2.4rem, 10vw, 3.5rem);
   }
 
   .hero-card,
